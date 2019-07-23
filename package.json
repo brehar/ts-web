@@ -4,6 +4,9 @@
   "description": "A web framework built with TypeScript",
   "private": true,
   "main": "src/index.ts",
+  "scripts": {
+    "start": "parcel index.html"
+  },
   "author": "Brett Hartman <brehardev@gmail.com> (http://bretthartman.me)",
   "repository": {
     "type": "git",
