@@ -1,0 +1,16 @@
+{
+  "name": "web",
+  "version": "0.0.1",
+  "description": "A web framework built with TypeScript",
+  "private": true,
+  "main": "src/index.ts",
+  "author": "Brett Hartman <brehardev@gmail.com> (http://bretthartman.me)",
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/brehar/ts-web"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.5.3"
+  }
+}
