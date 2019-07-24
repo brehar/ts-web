@@ -75,3 +75,4 @@ modules.xml
 ### Project ###
 .cache
 dist
+db.json
